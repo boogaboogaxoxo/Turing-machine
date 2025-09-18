@@ -1,4 +1,5 @@
 # Turing-machine
+Turing Machine Simulator in C
 This project is a general-purpose Turing Machine simulator written in C. It can simulate any Turing machine whose behavior is described in a simple configuration file.
 
 This repository includes an example configuration (palindrome.tm) that checks if a binary string is a palindrome.
